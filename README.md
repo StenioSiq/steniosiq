@@ -8,8 +8,7 @@
 ---
 
 ### 📫 Contato
-
-- Linkedin: linkedin.com/in/stenio-siqueira
+- Linkedin: [stenio-siqueira](linkedin.com/in/stenio-siqueira)
 - Email: steniosqr@gmail.com
 
 ---
